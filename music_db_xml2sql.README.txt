@@ -1,0 +1,6 @@
+Python code: music_db_xml2sql.py
+
+Reads track info from iTunes xml Library
+and creates a SQL database for the music library.
+
+
